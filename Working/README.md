@@ -9,6 +9,9 @@ So until we know what directories to form for each work product,
 this "working" directory is a place to stick stuff.
 
 It contains:
+- [IM Summary](dpkemp/docs/im-summary.md) - a rationale for using information models
+- ["Hello World" Example](dpkemp/openeox) - a simple information model derived from the
+[EoX](https://github.com/oasis-tcs/openeox) Core JSON Schema
 - [JADN Language Description](JADN%20IM/JADN%20Version%202.0.pdf)
 - [JADN Information Model Examples](JADN%20examples)
 - [Teapot](./Teapot/)
